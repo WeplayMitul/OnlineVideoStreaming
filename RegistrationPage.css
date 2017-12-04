@@ -1,0 +1,108 @@
+﻿body {
+}
+
+body{
+  background:#fafafa;
+  color:#333;
+  font-family:-webkit-pictograph;
+  text-transform:none;
+  
+}
+ul.radioButtonList { list-style:none; margin: 0; padding: 0;}
+ul.radioButtonList.horizontal li { display: inline;}
+ 
+.box{
+  width:90%;
+  max-width:450px;
+  height:auto;
+  margin:0 auto;
+  margin-top:10px;
+  margin-left:500px;
+  margin-right:500px;
+  margin-bottom:100px;
+  background:rgba(0, 0, 0, 0.05);
+  border-radius:7px;
+  font-weight:bold;
+  box-shadow:inset 1px 1px 0 rgba(0,0,0,.1), inset 0 -1px 0 rgba(0,0,0,.07);
+}
+ 
+.content{
+  width:85%;
+  height:auto;
+  position:;
+  margin:0 auto;
+  padding:30px 0px;
+  background:;
+  text-align:center;
+}
+ 
+.content h1{
+  font-size: 24px;
+  font-weight:400;
+  color:#0026ff;
+  color:#111;
+  letter-spacing:0.125em;
+  text-align:center;
+}
+ 
+.field{
+  border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    margin: 10px auto;
+    padding: 10px;
+    background: #fff;
+    box-shadow: 0px 1px 0px 0px #111;
+    border-radius:3px;
+    outline:none;
+    color:#111;
+ 
+    font-weight:700;
+    letter-spacing:0.125em;
+    text-align:center;
+    text-transform:none;
+}
+ 
+ 
+::-webkit-input-placeholder{ /* WebKit browsers */
+  color:#fff;
+}
+:-moz-placeholder{ /* Mozilla Firefox 4 to 18 */
+  color:#fff;
+}
+::-moz-placeholder{ /* Mozilla Firefox 19+ */
+  color:#fff;
+}
+:-ms-input-placeholder{ /* Internet Explorer 10+ */
+  color:#fff;
+}
+ 
+ 
+ 
+.btn{
+  width:100%;
+  margin:10px auto;
+  padding:10px;
+  background:#0026ff;
+  border:none;
+  box-shadow: 0px 1px 0px 0px #111;
+  border-radius:3px;
+  outline:none;
+  color:#fff;
+  font-weight:bold;
+  letter-spacing:0.125em;
+  text-align:center;
+  text-transform:uppercase;
+ 
+}
+ 
+.btn:hover{
+  background:#FFBF00;
+  color:#333;
+}
+ 
+.btn:active{
+  background:#FACC2E;
+  color:#333;
+}
+

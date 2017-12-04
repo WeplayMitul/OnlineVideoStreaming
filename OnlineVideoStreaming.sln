@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineVideoStreaming", "OnlineVideoStreaming.csproj", "{FABC0FBF-78DE-4522-B1D5-C264FE47ABBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FABC0FBF-78DE-4522-B1D5-C264FE47ABBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABC0FBF-78DE-4522-B1D5-C264FE47ABBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABC0FBF-78DE-4522-B1D5-C264FE47ABBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABC0FBF-78DE-4522-B1D5-C264FE47ABBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
